@@ -14,8 +14,8 @@ The CAMV dataset is collected from the most popular micro video social media pla
 Similar to the existing benchmark, we provide two types of annotations: sentiment and emotion. The sentiment labels consist of Positive, Negative, and Neutral, respectively. It indicates the comment holds agreement, disagreement, or indifferent sentiment toward the content of the videos. As for the emotion labels, we adopt the widely-used Plutchik’s wheel of emotions strategy, which includes eight labels: Trust, Joy, Surprise, Anticipation, Disgust, Sadness, Anger, and Fear.
 ## Dataset Directory
 
-1. [Video Features](#dataset-1)
-2. [Comment Annotations](#dataset-2)
+1. [Video Features](https://drive.google.com/drive/folders/1H1qUc6UCYWdg6NK9n4BwqM5aCCVM5dcF?usp=sharing)
+2. [Comment Annotations](https://drive.google.com/drive/folders/1H1qUc6UCYWdg6NK9n4BwqM5aCCVM5dcF?usp=sharing)
 
 ## Video Features
 Video Features
