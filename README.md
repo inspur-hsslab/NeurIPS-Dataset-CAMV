@@ -27,7 +27,8 @@ For the visual feature which extracted from video frames, we present them as ten
 
 You can download Video Features from the following location:
 
-- [Video Features Download Link](https://github.com/your_username/dataset1)
+- Google Drive:[Video Features Download Link](https://drive.google.com/file/d/1kZUSbQsCjnx1Q4OzDiX5JAH5OExG0HxF/view?usp=sharing)
+- Baidu NetDisk:[Video Features Download Link](https://pan.baidu.com/s/19K-7D4cFrY0lkhuwEVU1pg?pwd=sykw) Extract code: sykw
 
 ## Comment Annotations
 
@@ -39,7 +40,8 @@ For the comment data, we organize them as JSON files. We save all comments data 
 
 You can download Comment Annotations from the following location:
 
-- [Comment Annotations Download Link](https://github.com/your_username/dataset2)
+- Google Drive:[Comment Annotations Download Link](https://drive.google.com/drive/folders/1H1qUc6UCYWdg6NK9n4BwqM5aCCVM5dcF?usp=sharing)
+- Baidu NetDisk:[Comment Annotations Download Link](https://pan.baidu.com/s/19K-7D4cFrY0lkhuwEVU1pg?pwd=sykw) Extract code: sykw
 
 
 
