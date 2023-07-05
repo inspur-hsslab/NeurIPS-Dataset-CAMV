@@ -12,18 +12,14 @@ With the development of the Internet we-media, micro video social platforms brin
 
 The CAMV dataset is collected from the most popular micro video social media platform, TikTok, which includes both the micro videos and corresponding comments.
 Similar to the existing benchmark, we provide two types of annotations: sentiment and emotion. The sentiment labels consist of Positive, Negative, and Neutral, respectively. It indicates the comment holds agreement, disagreement, or indifferent sentiment toward the content of the videos. As for the emotion labels, we adopt the widely-used Plutchik’s wheel of emotions strategy, which includes eight labels: Trust, Joy, Surprise, Anticipation, Disgust, Sadness, Anger, and Fear.
-## Dataset Directory
 
-1. [Video Features](https://drive.google.com/drive/folders/1H1qUc6UCYWdg6NK9n4BwqM5aCCVM5dcF?usp=sharing)
-2. [Comment Annotations](https://drive.google.com/drive/folders/1H1qUc6UCYWdg6NK9n4BwqM5aCCVM5dcF?usp=sharing)
 
 ## Video Features
-Video Features
 ### Description
 
 For the visual feature which extracted from video frames, we present them as tensor representations which saved as npy files for each micro video. First of all, we uniform all the micro videos at same frame rate of 25fps. Afterwards, we used FFmpeg to extract all video frames. Then, we utilize the I3D model to generate the temporal features of the micro videos with a window size of 16 frames and a step size of 8. We slide the window on the temporal axis and limit the max tensor length as 180. The feature dimension is 1024.
 
-### Download and Access
+### Download
 
 You can download Video Features from the following location:
 
@@ -36,7 +32,7 @@ You can download Video Features from the following location:
 
 For the comment data, we organize them as JSON files. We save all comments data as a json file and assign unique keys as data pointer. And each comment records text, annotated label, related micro video and hashtag. We use three json file to split train, dev and test set.
 
-### Download and Access
+### Download
 
 You can download Comment Annotations from the following location:
 
